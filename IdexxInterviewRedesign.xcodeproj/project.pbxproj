@@ -11,6 +11,29 @@
 		4A17531D285B7DB0008F34EF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A17531C285B7DB0008F34EF /* ContentView.swift */; };
 		4A17531F285B7DB1008F34EF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4A17531E285B7DB1008F34EF /* Assets.xcassets */; };
 		4A175322285B7DB1008F34EF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4A175321285B7DB1008F34EF /* Preview Assets.xcassets */; };
+		4A17532C285B7FE8008F34EF /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A17532B285B7FE8008F34EF /* Color.swift */; };
+		4A17532E285B8070008F34EF /* PreviewProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A17532D285B8070008F34EF /* PreviewProvider.swift */; };
+		4A175333285B81A4008F34EF /* DropdownPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A175332285B81A4008F34EF /* DropdownPicker.swift */; };
+		4A175336285B85C7008F34EF /* PracticeInfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A175335285B85C7008F34EF /* PracticeInfoView.swift */; };
+		4A175339285B85E6008F34EF /* PatientChartsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A175338285B85E6008F34EF /* PatientChartsView.swift */; };
+		4A17533C285B8616008F34EF /* PatientChartDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A17533B285B8616008F34EF /* PatientChartDetailView.swift */; };
+		4A17533F285B8634008F34EF /* CheckInOutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A17533E285B8634008F34EF /* CheckInOutView.swift */; };
+		4A175341285B8646008F34EF /* AppointmentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A175340285B8646008F34EF /* AppointmentView.swift */; };
+		4A175343285B8657008F34EF /* MedicalNotesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A175342285B8657008F34EF /* MedicalNotesView.swift */; };
+		4A175345285B866F008F34EF /* LaboratoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A175344285B866F008F34EF /* LaboratoryView.swift */; };
+		4A175347285B8683008F34EF /* PrescriptionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A175346285B8683008F34EF /* PrescriptionView.swift */; };
+		4A17534A285B89FC008F34EF /* PracticeLocationModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A175349285B89FC008F34EF /* PracticeLocationModel.swift */; };
+		4A17534D285B8C6B008F34EF /* PracticeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A17534C285B8C6B008F34EF /* PracticeViewModel.swift */; };
+		4A17534F285B90AC008F34EF /* Buttons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A17534E285B90AC008F34EF /* Buttons.swift */; };
+		4A175351285B9241008F34EF /* PatientInfoModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A175350285B9241008F34EF /* PatientInfoModel.swift */; };
+		4A175353285B945B008F34EF /* PatientInfoViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A175352285B945B008F34EF /* PatientInfoViewModel.swift */; };
+		4A175356285BF178008F34EF /* QuickLinksView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A175355285BF178008F34EF /* QuickLinksView.swift */; };
+		4A175358285BFC86008F34EF /* CheckInOutModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A175357285BFC86008F34EF /* CheckInOutModel.swift */; };
+		4A17535A285C02E8008F34EF /* AppointmentModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A175359285C02E8008F34EF /* AppointmentModel.swift */; };
+		4A17535F285C82DB008F34EF /* LocationsDataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A17535E285C82DB008F34EF /* LocationsDataService.swift */; };
+		4A175361285C83A3008F34EF /* LocationExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A175360285C83A3008F34EF /* LocationExtension.swift */; };
+		4A175365285C8C2B008F34EF /* LocationMapAnnotationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A175364285C8C2B008F34EF /* LocationMapAnnotationView.swift */; };
+		4A175367285C8CB3008F34EF /* HeadQuartersMarker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A175366285C8CB3008F34EF /* HeadQuartersMarker.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +42,29 @@
 		4A17531C285B7DB0008F34EF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		4A17531E285B7DB1008F34EF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4A175321285B7DB1008F34EF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		4A17532B285B7FE8008F34EF /* Color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
+		4A17532D285B8070008F34EF /* PreviewProvider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreviewProvider.swift; sourceTree = "<group>"; };
+		4A175332285B81A4008F34EF /* DropdownPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DropdownPicker.swift; sourceTree = "<group>"; };
+		4A175335285B85C7008F34EF /* PracticeInfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PracticeInfoView.swift; sourceTree = "<group>"; };
+		4A175338285B85E6008F34EF /* PatientChartsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PatientChartsView.swift; sourceTree = "<group>"; };
+		4A17533B285B8616008F34EF /* PatientChartDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PatientChartDetailView.swift; sourceTree = "<group>"; };
+		4A17533E285B8634008F34EF /* CheckInOutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckInOutView.swift; sourceTree = "<group>"; };
+		4A175340285B8646008F34EF /* AppointmentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppointmentView.swift; sourceTree = "<group>"; };
+		4A175342285B8657008F34EF /* MedicalNotesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MedicalNotesView.swift; sourceTree = "<group>"; };
+		4A175344285B866F008F34EF /* LaboratoryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LaboratoryView.swift; sourceTree = "<group>"; };
+		4A175346285B8683008F34EF /* PrescriptionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrescriptionView.swift; sourceTree = "<group>"; };
+		4A175349285B89FC008F34EF /* PracticeLocationModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PracticeLocationModel.swift; sourceTree = "<group>"; };
+		4A17534C285B8C6B008F34EF /* PracticeViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PracticeViewModel.swift; sourceTree = "<group>"; };
+		4A17534E285B90AC008F34EF /* Buttons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Buttons.swift; sourceTree = "<group>"; };
+		4A175350285B9241008F34EF /* PatientInfoModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PatientInfoModel.swift; sourceTree = "<group>"; };
+		4A175352285B945B008F34EF /* PatientInfoViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PatientInfoViewModel.swift; sourceTree = "<group>"; };
+		4A175355285BF178008F34EF /* QuickLinksView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuickLinksView.swift; sourceTree = "<group>"; };
+		4A175357285BFC86008F34EF /* CheckInOutModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckInOutModel.swift; sourceTree = "<group>"; };
+		4A175359285C02E8008F34EF /* AppointmentModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppointmentModel.swift; sourceTree = "<group>"; };
+		4A17535E285C82DB008F34EF /* LocationsDataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationsDataService.swift; sourceTree = "<group>"; };
+		4A175360285C83A3008F34EF /* LocationExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationExtension.swift; sourceTree = "<group>"; };
+		4A175364285C8C2B008F34EF /* LocationMapAnnotationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationMapAnnotationView.swift; sourceTree = "<group>"; };
+		4A175366285C8CB3008F34EF /* HeadQuartersMarker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeadQuartersMarker.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +97,11 @@
 		4A175319285B7DB0008F34EF /* IdexxInterviewRedesign */ = {
 			isa = PBXGroup;
 			children = (
+				4A17535D285C82BD008F34EF /* DataService */,
+				4A17534B285B8C55008F34EF /* ViewModel */,
+				4A175348285B89E3008F34EF /* Model */,
+				4A17532F285B816C008F34EF /* View */,
+				4A17532A285B7FC4008F34EF /* Extensions */,
 				4A17531A285B7DB0008F34EF /* IdexxInterviewRedesignApp.swift */,
 				4A17531C285B7DB0008F34EF /* ContentView.swift */,
 				4A17531E285B7DB1008F34EF /* Assets.xcassets */,
@@ -65,6 +116,128 @@
 				4A175321285B7DB1008F34EF /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		4A17532A285B7FC4008F34EF /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				4A17532B285B7FE8008F34EF /* Color.swift */,
+				4A17532D285B8070008F34EF /* PreviewProvider.swift */,
+				4A17534E285B90AC008F34EF /* Buttons.swift */,
+				4A175360285C83A3008F34EF /* LocationExtension.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		4A17532F285B816C008F34EF /* View */ = {
+			isa = PBXGroup;
+			children = (
+				4A175334285B85AE008F34EF /* General */,
+				4A175330285B817A008F34EF /* Reusable */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		4A175330285B817A008F34EF /* Reusable */ = {
+			isa = PBXGroup;
+			children = (
+				4A175362285C8C07008F34EF /* Map */,
+				4A175354285BF15D008F34EF /* Grid */,
+				4A175331285B8183008F34EF /* Dropdownlist */,
+			);
+			path = Reusable;
+			sourceTree = "<group>";
+		};
+		4A175331285B8183008F34EF /* Dropdownlist */ = {
+			isa = PBXGroup;
+			children = (
+				4A175332285B81A4008F34EF /* DropdownPicker.swift */,
+			);
+			path = Dropdownlist;
+			sourceTree = "<group>";
+		};
+		4A175334285B85AE008F34EF /* General */ = {
+			isa = PBXGroup;
+			children = (
+				4A17533A285B85FB008F34EF /* Hub */,
+				4A175335285B85C7008F34EF /* PracticeInfoView.swift */,
+				4A175338285B85E6008F34EF /* PatientChartsView.swift */,
+			);
+			path = General;
+			sourceTree = "<group>";
+		};
+		4A17533A285B85FB008F34EF /* Hub */ = {
+			isa = PBXGroup;
+			children = (
+				4A17533D285B861D008F34EF /* SubViews */,
+				4A17533B285B8616008F34EF /* PatientChartDetailView.swift */,
+			);
+			path = Hub;
+			sourceTree = "<group>";
+		};
+		4A17533D285B861D008F34EF /* SubViews */ = {
+			isa = PBXGroup;
+			children = (
+				4A17533E285B8634008F34EF /* CheckInOutView.swift */,
+				4A175340285B8646008F34EF /* AppointmentView.swift */,
+				4A175342285B8657008F34EF /* MedicalNotesView.swift */,
+				4A175344285B866F008F34EF /* LaboratoryView.swift */,
+				4A175346285B8683008F34EF /* PrescriptionView.swift */,
+			);
+			path = SubViews;
+			sourceTree = "<group>";
+		};
+		4A175348285B89E3008F34EF /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				4A175349285B89FC008F34EF /* PracticeLocationModel.swift */,
+				4A175350285B9241008F34EF /* PatientInfoModel.swift */,
+				4A175357285BFC86008F34EF /* CheckInOutModel.swift */,
+				4A175359285C02E8008F34EF /* AppointmentModel.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		4A17534B285B8C55008F34EF /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				4A17534C285B8C6B008F34EF /* PracticeViewModel.swift */,
+				4A175352285B945B008F34EF /* PatientInfoViewModel.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		4A175354285BF15D008F34EF /* Grid */ = {
+			isa = PBXGroup;
+			children = (
+				4A175355285BF178008F34EF /* QuickLinksView.swift */,
+			);
+			path = Grid;
+			sourceTree = "<group>";
+		};
+		4A17535D285C82BD008F34EF /* DataService */ = {
+			isa = PBXGroup;
+			children = (
+				4A17535E285C82DB008F34EF /* LocationsDataService.swift */,
+			);
+			path = DataService;
+			sourceTree = "<group>";
+		};
+		4A175362285C8C07008F34EF /* Map */ = {
+			isa = PBXGroup;
+			children = (
+				4A175363285C8C0E008F34EF /* Markers */,
+			);
+			path = Map;
+			sourceTree = "<group>";
+		};
+		4A175363285C8C0E008F34EF /* Markers */ = {
+			isa = PBXGroup;
+			children = (
+				4A175364285C8C2B008F34EF /* LocationMapAnnotationView.swift */,
+				4A175366285C8CB3008F34EF /* HeadQuartersMarker.swift */,
+			);
+			path = Markers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,8 +310,31 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4A175341285B8646008F34EF /* AppointmentView.swift in Sources */,
+				4A175339285B85E6008F34EF /* PatientChartsView.swift in Sources */,
+				4A17535F285C82DB008F34EF /* LocationsDataService.swift in Sources */,
+				4A175347285B8683008F34EF /* PrescriptionView.swift in Sources */,
+				4A175336285B85C7008F34EF /* PracticeInfoView.swift in Sources */,
+				4A17533F285B8634008F34EF /* CheckInOutView.swift in Sources */,
 				4A17531D285B7DB0008F34EF /* ContentView.swift in Sources */,
+				4A175365285C8C2B008F34EF /* LocationMapAnnotationView.swift in Sources */,
+				4A175343285B8657008F34EF /* MedicalNotesView.swift in Sources */,
+				4A17534F285B90AC008F34EF /* Buttons.swift in Sources */,
+				4A17532E285B8070008F34EF /* PreviewProvider.swift in Sources */,
+				4A175351285B9241008F34EF /* PatientInfoModel.swift in Sources */,
+				4A17533C285B8616008F34EF /* PatientChartDetailView.swift in Sources */,
 				4A17531B285B7DB0008F34EF /* IdexxInterviewRedesignApp.swift in Sources */,
+				4A17535A285C02E8008F34EF /* AppointmentModel.swift in Sources */,
+				4A17534D285B8C6B008F34EF /* PracticeViewModel.swift in Sources */,
+				4A175356285BF178008F34EF /* QuickLinksView.swift in Sources */,
+				4A175358285BFC86008F34EF /* CheckInOutModel.swift in Sources */,
+				4A175345285B866F008F34EF /* LaboratoryView.swift in Sources */,
+				4A17532C285B7FE8008F34EF /* Color.swift in Sources */,
+				4A175333285B81A4008F34EF /* DropdownPicker.swift in Sources */,
+				4A175361285C83A3008F34EF /* LocationExtension.swift in Sources */,
+				4A175353285B945B008F34EF /* PatientInfoViewModel.swift in Sources */,
+				4A17534A285B89FC008F34EF /* PracticeLocationModel.swift in Sources */,
+				4A175367285C8CB3008F34EF /* HeadQuartersMarker.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -195,7 +391,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -249,7 +445,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
@@ -273,8 +469,8 @@
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -302,8 +498,8 @@
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
