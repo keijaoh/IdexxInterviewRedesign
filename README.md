@@ -22,7 +22,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url] -->
-[![MIT License][license-shield]][license-url]
+[![MIT License][license-shield]][(<a href="#mit-license">back to top</a>)]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -170,7 +170,8 @@ Project Link: [https://github.com/keijaoh/IdexxInterviewRedesign](https://github
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!--License -->
-##MIT License
+## MIT License
+<br/>
 MIT License
 
 Copyright (c) 2022 Keijaoh Campbell
