@@ -96,6 +96,9 @@ Concept Design of the IDEXX rVetLink VetReferral Re-Imagined Concept. Just my ta
 * [SwiftUI](https://developer.apple.com/xcode/swiftui/)
 * [MapKit](https://developer.apple.com/documentation/mapkit/map)
 
+### Architectural Pattern
+
+* [MVVM](https://www.swift.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -147,7 +150,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -156,7 +159,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Keijaoh Campbell - [@keijaoh](https://twitter.com/keijaoh) - email@email_client.com
+Keijaoh Campbell - [@keijaoh](https://twitter.com/keijaoh) 
 
 Project Link: [https://github.com/keijaoh/IdexxInterviewRedesign](https://github.com/keijaoh/IdexxInterviewRedesign)
 
@@ -167,7 +170,7 @@ Project Link: [https://github.com/keijaoh/IdexxInterviewRedesign](https://github
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
+* Original Concept by [Idexx](https://apps.apple.com/us/app/idexx-rvetlink-vetreferral/id1460839495)
 * []()
 * []()
 
