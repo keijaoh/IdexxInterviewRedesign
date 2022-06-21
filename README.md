@@ -83,7 +83,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]([https://example.com](https://firebasestorage.googleapis.com/v0/b/keijaoh-576a0.appspot.com/o/keijaohPortfolioImages%2FGitHub%2FIdexx%20rVetLink%2FIMG_6755%20Large.jpeg?alt=media&token=505dfe9b-cbcb-441d-8735-0572377936a8))
+[![Product Name Screen Shot][product-screenshot]](https://firebasestorage.googleapis.com/v0/b/keijaoh-576a0.appspot.com/o/keijaohPortfolioImages%2FGitHub%2FIdexx%20rVetLink%2FIMG_6755%20Large.jpeg?alt=media&token=505dfe9b-cbcb-441d-8735-0572377936a8)
 
 Concept Design of the IDEXX rVetLink VetReferral Re-Imagined Concept. Just my take on some of the pages of the iOS application.
 
@@ -93,8 +93,8 @@ Concept Design of the IDEXX rVetLink VetReferral Re-Imagined Concept. Just my ta
 
 ### Built With
 
-* [Swift](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
+* [Swift](https://www.swift.org/)
+* [SwiftUI](https://developer.apple.com/xcode/swiftui/)
 * [Vue.js](https://vuejs.org/)
 * [Angular](https://angular.io/)
 * [Svelte](https://svelte.dev/)
