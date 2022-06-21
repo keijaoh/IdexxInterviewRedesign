@@ -55,14 +55,7 @@ Concept Design of the IDEXX rVetLink VetReferral Re-Imagined Concept. Just my ta
         <li><a href="#architectural-pattern">Architectural Pattern</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#original-concept">Original Concept</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -98,15 +91,14 @@ Concept Design of the IDEXX rVetLink VetReferral Re-Imagined Concept. Just my ta
 
 
 
-<!-- USAGE EXAMPLES -->
-## Usage
+<!-- ORIGINAL CONCEPT -->
+## Original Concept
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Below are the original concepts and drawings before the Re-imagined concept was Prototyped.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+[![Concept Screen Shot_1][concept-screenshot-1]](https://firebasestorage.googleapis.com/v0/b/keijaoh-576a0.appspot.com/o/keijaohPortfolioImages%2FGitHub%2FIdexx%20rVetLink%2FIMG_6755%20Large.jpeg?alt=media&token=505dfe9b-cbcb-441d-8735-0572377936a8)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
+[concept-screenshot-1]
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -172,3 +164,12 @@ Project Link: [https://github.com/keijaoh/IdexxInterviewRedesign](https://github
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/keijaoh-campbell/
 [product-screenshot]: https://firebasestorage.googleapis.com/v0/b/keijaoh-576a0.appspot.com/o/keijaohPortfolioImages%2FGitHub%2FIdexx%20rVetLink%2FIMG_6755%20Large.jpeg?alt=media&token=505dfe9b-cbcb-441d-8735-0572377936a8
+[concept-screenshot-1]: https://firebasestorage.googleapis.com/v0/b/keijaoh-576a0.appspot.com/o/keijaohPortfolioImages%2FGitHub%2FIdexx%20rVetLink%2FScreen%20Shot%202022-06-21%20at%207.26.32%20PM.png?alt=media&token=c5d2ccd3-4670-4ab0-b371-f154ac55f035
+
+[concept-screenshot-2]: https://firebasestorage.googleapis.com/v0/b/keijaoh-576a0.appspot.com/o/keijaohPortfolioImages%2FGitHub%2FIdexx%20rVetLink%2FScreen%20Shot%202022-06-21%20at%207.26.32%20PM.png?alt=media&token=c5d2ccd3-4670-4ab0-b371-f154ac55f035
+
+[concept-screenshot-3]: https://firebasestorage.googleapis.com/v0/b/keijaoh-576a0.appspot.com/o/keijaohPortfolioImages%2FGitHub%2FIdexx%20rVetLink%2FScreen%20Shot%202022-06-21%20at%207.27.19%20PM.png?alt=media&token=0c369f91-13dd-4fb4-bc44-f423b98ef448
+
+[concept-screenshot-4]: https://firebasestorage.googleapis.com/v0/b/keijaoh-576a0.appspot.com/o/keijaohPortfolioImages%2FGitHub%2FIdexx%20rVetLink%2FScreen%20Shot%202022-06-21%20at%207.28.12%20PM.png?alt=media&token=04fadb97-f8a5-4545-97de-7dba45ad97bf
+
+
