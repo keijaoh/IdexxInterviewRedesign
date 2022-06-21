@@ -51,6 +51,9 @@ Concept Design of the IDEXX rVetLink VetReferral Re-Imagined Concept. Just my ta
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
+        <ul>
+        <li><a href="#architectural-pattern">Architectural Pattern</a></li>
+      </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -105,21 +108,6 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 <!-- CONTRIBUTING -->
 ## Contributing
 
@@ -164,8 +152,6 @@ Project Link: [https://github.com/keijaoh/IdexxInterviewRedesign](https://github
 ## Acknowledgments
 
 * Original Concept by [Idexx](https://apps.apple.com/us/app/idexx-rvetlink-vetreferral/id1460839495)
-* []()
-* []()
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
