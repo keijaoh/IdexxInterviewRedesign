@@ -191,4 +191,4 @@ Project Link: [https://github.com/keijaoh/IdexxInterviewRedesign](https://github
 [license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: https://firebasestorage.googleapis.com/v0/b/keijaoh-576a0.appspot.com/o/keijaohPortfolioImages%2FGitHub%2FIdexx%20rVetLink%2FIMG_6755%20Large.jpeg?alt=media&token=505dfe9b-cbcb-441d-8735-0572377936a8
