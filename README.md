@@ -104,6 +104,24 @@ Below are the original concepts and drawings before the Re-imagined concept was 
 [![Concept Screen Shot_4][concept-screenshot-4]](https://firebasestorage.googleapis.com/v0/b/keijaoh-576a0.appspot.com/o/keijaohPortfolioImages%2FGitHub%2FIdexx%20rVetLink%2FScreen%20Shot%202022-06-21%20at%207.28.12%20PM.png?alt=media&token=04fadb97-f8a5-4545-97de-7dba45ad97bf
 )
 
+<!-- REDESIGNED CONCEPT -->
+## Re-designed Concept
+
+The screenshots are the implementation of the sketches i displayed earlier.
+
+[![Concept Screen Shot_1][app-screenshot-1]](https://firebasestorage.googleapis.com/v0/b/keijaoh-576a0.appspot.com/o/keijaohPortfolioImages%2FGitHub%2FIdexx%20rVetLink%2FScreen%20Shot%202022-06-21%20at%207.26.55%20PM.png?alt=media&token=00fd683b-18d4-4821-847c-857d8cccbde2)
+
+[![Concept Screen Shot_2][app-screenshot-2]](https://firebasestorage.googleapis.com/v0/b/keijaoh-576a0.appspot.com/o/keijaohPortfolioImages%2FGitHub%2FIdexx%20rVetLink%2FScreen%20Shot%202022-06-21%20at%207.27.37%20PM.png?alt=media&token=29c6be4d-c021-4eb5-a300-463af6f5d5db)
+
+[![Concept Screen Shot_3][app-screenshot-3]](https://firebasestorage.googleapis.com/v0/b/keijaoh-576a0.appspot.com/o/keijaohPortfolioImages%2FGitHub%2FIdexx%20rVetLink%2FScreen%20Shot%202022-06-21%20at%207.27.49%20PM.png?alt=media&token=b6464503-953a-4603-9377-7a877cbbeeda)
+
+[![Concept Screen Shot_4][app-screenshot-4]](https://firebasestorage.googleapis.com/v0/b/keijaoh-576a0.appspot.com/o/keijaohPortfolioImages%2FGitHub%2FIdexx%20rVetLink%2FScreen%20Shot%202022-06-21%20at%207.29.08%20PM.png?alt=media&token=cdd914c9-1875-413e-8496-3d07d4867e47)
+
+[![Concept Screen Shot_5][app-screenshot-5]](https://firebasestorage.googleapis.com/v0/b/keijaoh-576a0.appspot.com/o/keijaohPortfolioImages%2FGitHub%2FIdexx%20rVetLink%2FScreen%20Shot%202022-06-21%20at%207.29.22%20PM.png?alt=media&token=551466ee-9179-4235-8669-0c8208bb3f25)
+
+[![Concept Screen Shot_6][app-screenshot-6]](https://firebasestorage.googleapis.com/v0/b/keijaoh-576a0.appspot.com/o/keijaohPortfolioImages%2FGitHub%2FIdexx%20rVetLink%2FScreen%20Shot%202022-06-21%20at%207.29.41%20PM.png?alt=media&token=97e99123-529f-4751-9b53-d6fab0e9367d)
+
+
 <!-- CONTRIBUTING -->
 ## Contributing
 
@@ -176,4 +194,14 @@ Project Link: [https://github.com/keijaoh/IdexxInterviewRedesign](https://github
 
 [concept-screenshot-4]: https://firebasestorage.googleapis.com/v0/b/keijaoh-576a0.appspot.com/o/keijaohPortfolioImages%2FGitHub%2FIdexx%20rVetLink%2FScreen%20Shot%202022-06-21%20at%207.28.12%20PM.png?alt=media&token=04fadb97-f8a5-4545-97de-7dba45ad97bf
 
+[app-screenshot-1]: https://firebasestorage.googleapis.com/v0/b/keijaoh-576a0.appspot.com/o/keijaohPortfolioImages%2FGitHub%2FIdexx%20rVetLink%2FScreen%20Shot%202022-06-21%20at%207.26.55%20PM.png?alt=media&token=00fd683b-18d4-4821-847c-857d8cccbde2
 
+[app-screenshot-2]: https://firebasestorage.googleapis.com/v0/b/keijaoh-576a0.appspot.com/o/keijaohPortfolioImages%2FGitHub%2FIdexx%20rVetLink%2FScreen%20Shot%202022-06-21%20at%207.27.37%20PM.png?alt=media&token=29c6be4d-c021-4eb5-a300-463af6f5d5db
+
+[app-screenshot-3]:https://firebasestorage.googleapis.com/v0/b/keijaoh-576a0.appspot.com/o/keijaohPortfolioImages%2FGitHub%2FIdexx%20rVetLink%2FScreen%20Shot%202022-06-21%20at%207.27.49%20PM.png?alt=media&token=b6464503-953a-4603-9377-7a877cbbeeda
+
+[app-screenshot-4]: https://firebasestorage.googleapis.com/v0/b/keijaoh-576a0.appspot.com/o/keijaohPortfolioImages%2FGitHub%2FIdexx%20rVetLink%2FScreen%20Shot%202022-06-21%20at%207.29.08%20PM.png?alt=media&token=cdd914c9-1875-413e-8496-3d07d4867e47
+
+[app-screenshot-5]: https://firebasestorage.googleapis.com/v0/b/keijaoh-576a0.appspot.com/o/keijaohPortfolioImages%2FGitHub%2FIdexx%20rVetLink%2FScreen%20Shot%202022-06-21%20at%207.29.22%20PM.png?alt=media&token=551466ee-9179-4235-8669-0c8208bb3f25
+
+[app-screenshot-6]: https://firebasestorage.googleapis.com/v0/b/keijaoh-576a0.appspot.com/o/keijaohPortfolioImages%2FGitHub%2FIdexx%20rVetLink%2FScreen%20Shot%202022-06-21%20at%207.29.41%20PM.png?alt=media&token=97e99123-529f-4751-9b53-d6fab0e9367d
