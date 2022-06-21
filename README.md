@@ -22,7 +22,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url] -->
-[![MIT License][license-shield]][(<a href="#mit-license">back to top</a>)]
+
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -61,6 +61,7 @@ Concept Design of the IDEXX rVetLink VetReferral Re-Imagined Concept. Just my ta
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#mit-license">MIT License</li>
   </ol>
 </details>
 
