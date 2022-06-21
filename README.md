@@ -98,7 +98,8 @@ Below are the original concepts and drawings before the Re-imagined concept was 
 
 [![Concept Screen Shot_1][concept-screenshot-1]](https://firebasestorage.googleapis.com/v0/b/keijaoh-576a0.appspot.com/o/keijaohPortfolioImages%2FGitHub%2FIdexx%20rVetLink%2FIMG_6755%20Large.jpeg?alt=media&token=505dfe9b-cbcb-441d-8735-0572377936a8)
 
-[concept-screenshot-1]
+[concept-screenshot-2] (https://firebasestorage.googleapis.com/v0/b/keijaoh-576a0.appspot.com/o/keijaohPortfolioImages%2FGitHub%2FIdexx%20rVetLink%2FScreen%20Shot%202022-06-21%20at%207.26.32%20PM.png?alt=media&token=c5d2ccd3-4670-4ab0-b371-f154ac55f035
+)
 
 <!-- CONTRIBUTING -->
 ## Contributing
